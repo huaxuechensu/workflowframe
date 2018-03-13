@@ -1,0 +1,5 @@
+rootProject.name = 'workflowframe'
+include 'workflow-util'
+include 'workflow-db'
+include 'workflow-web'
+

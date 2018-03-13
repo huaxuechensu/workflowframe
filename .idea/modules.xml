@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/workflow-db/workflow-db.iml" filepath="$PROJECT_DIR$/.idea/modules/workflow-db/workflow-db.iml" group="workflow-db" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/workflow-db/workflow-db_main.iml" filepath="$PROJECT_DIR$/.idea/modules/workflow-db/workflow-db_main.iml" group="workflow-db" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/workflow-db/workflow-db_test.iml" filepath="$PROJECT_DIR$/.idea/modules/workflow-db/workflow-db_test.iml" group="workflow-db" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/workflow-util.iml" filepath="$PROJECT_DIR$/.idea/modules/workflow-util.iml" group="workflow-util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/workflow-util/workflow-util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/workflow-util/workflow-util_main.iml" group="workflow-util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/workflow-util/workflow-util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/workflow-util/workflow-util_test.iml" group="workflow-util" />
+      <module fileurl="file://$PROJECT_DIR$/workflow-web/workflow-web.iml" filepath="$PROJECT_DIR$/workflow-web/workflow-web.iml" group="workflow-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/workflow-web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/workflow-web_main.iml" group="workflow-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/workflow-web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/workflow-web_test.iml" group="workflow-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/workflowframe.iml" filepath="$PROJECT_DIR$/.idea/modules/workflowframe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/workflowframe_main.iml" filepath="$PROJECT_DIR$/.idea/modules/workflowframe_main.iml" group="workflowframe" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/workflowframe_test.iml" filepath="$PROJECT_DIR$/.idea/modules/workflowframe_test.iml" group="workflowframe" />
+    </modules>
+  </component>
+</project>

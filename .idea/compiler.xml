@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="workflow-db_main" target="1.8" />
+      <module name="workflow-db_test" target="1.8" />
+      <module name="workflow-util_main" target="1.8" />
+      <module name="workflow-util_test" target="1.8" />
+      <module name="workflow-web_main" target="1.8" />
+      <module name="workflow-web_test" target="1.8" />
+      <module name="workflowframe_main" target="1.8" />
+      <module name="workflowframe_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
